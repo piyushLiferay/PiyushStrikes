@@ -14,8 +14,8 @@
 
 </details>
 
-## PORTFOLIO 
-You may be using [Markdown Live Preview](https://piyushghosh017.github.io/portfolio/).
+## Wanted to know about me  
+[Portfolio- ](https://piyushghosh017.github.io/portfolio/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
