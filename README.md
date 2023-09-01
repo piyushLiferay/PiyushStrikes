@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PiyushStrikes
 - 👀 I’m interested in Software Developement, DevOps .
 - 🌱 Learning to build TECH.
-- 📫 How to reach me piyushghosh2021@gmail.com .
+- 📫 How to reach me piyushghosh2021@gmail.com or https://www.linkedin.com/in/piyushghosh017.
 
   <details>
 <summary>My top languages</summary>
